@@ -1,0 +1,4 @@
+﻿  PokeballCatchCode.cpp
+D:\CodeBook\BlogCodeSamples\Pokeball\PokeballCatchCode\PokeballCatchCode\PokeballCatchCode.cpp(16,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CodeBook\BlogCodeSamples\Pokeball\PokeballCatchCode\PokeballCatchCode\PokeballCatchCode.cpp(116,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  PokeballCatchCode.vcxproj -> D:\CodeBook\BlogCodeSamples\Pokeball\PokeballCatchCode\Debug\PokeballCatchCode.exe
